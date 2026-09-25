@@ -13,6 +13,7 @@ public class Input {
         // Input user age
         System.out.print("How old are you? ");
         int age = scanner.nextInt();
+
         // clear the nextLine scanner (\n)
         scanner.nextLine();
 
@@ -23,7 +24,7 @@ public class Input {
         // print all outputs
         System.out.println("Hello "+name);
         System.out.println("You are "+age+" years old");
-        System.out.println("Your like "+food);
+        System.out.println("You like "+food);
 
         scanner.close();
     }

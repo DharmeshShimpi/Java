@@ -4,6 +4,10 @@ public class Logical_op {
     
     public static void main(String[] args) {
         
+        // && -> AND
+        // || -> OR
+        // ! -> NOT
+
         // int temp = 25;
 
         // if(temp > 30) {

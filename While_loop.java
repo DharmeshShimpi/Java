@@ -11,7 +11,9 @@ public class While_loop {
         while (name.isBlank()) {
             System.out.print("Enter your name: ");
             name = scanner.nextLine();
-        } // do-while loop executes atleast once, then checks the condition!
+        } 
+        
+        // do-while loop executes atleast once, then checks the condition!
         // Syntax
         // do {
             // block of code;
